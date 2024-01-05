@@ -11,4 +11,5 @@ export default defineConfig({
       pages: '/src/pages',
     }
   },
+  base: "/frontend-help/",
 })
