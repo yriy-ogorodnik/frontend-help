@@ -7,7 +7,7 @@ const NotfoundPage = () => {
     
          <div className="home-title">
             
-                 NotfoundPage
+            404 - Сторінку не знайдено
                  <Link to='/'> HOME </Link>
             </div>
       

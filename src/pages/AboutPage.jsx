@@ -1,205 +1,41 @@
+import { Container, Typography } from "@mui/material";
 
 
 const AboutPage = () => {
    
    return (
     
-         <h1 className="home-title">Lorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. About  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,Page pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,  cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elitLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage page. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage pageLorem ipsum dolor sit amet 
-         consectetur adipisicing elit. Molestias,
-          cum. AboutPage page</h1>
+         <>
+          <Container>
+      <Typography variant="h1" className="home-title">
+        Про проєкт
+      </Typography>
+
+      <Typography paragraph>
+        Повномасштабне вторгнення РФ в Україну змусило усіх нас навчитись допомагати швидше та ефективніше. Адже, без перебільшення, перемога та успіх військових залежить від кожного з нас. Це той випадок, коли вирішує навіть 1 хвилина та 1 гривня.
+      </Typography>
+
+      <Typography paragraph>
+        Починаючи з першого дня великої війни, ми зустрічали тисячі дописів в соцмережах від благодійних фондів та активістів. Кількість волонтерських зборів кожного дня лише зростала, саме тому ми вирішили створити некомерційний волонтерський проєкт для підтримки Збройних сил України, Сил територіальної оборони та для гуманітарної допомоги людям з прилеглих до лінії фронту територій. Ми створили зручну платформу, на якій кожен може розмістити збір, додати всі необхідні реквізити, зручно поширити запит в соцмережах та слідкувати за динамікою закриття.
+      </Typography>
+
+      <Typography paragraph>
+        <strong>Про нас</strong>
+      </Typography>
+
+      <Typography paragraph>
+        Ми не є фінансовою організацією чи благодійним фондом, проте ми є функціональною платформою для полегшення рутинної роботи волонтерів та благодійних організацій. Ми ретельно та відповідально перевіряємо надану інформацію перед тим, як розмістити збір на платформі. Тож будьте певні, ваші кошти точно працюватимуть на перемогу. Ми також гарантуємо повну прозорість та легкі інструменти для ведення звітності.
+      </Typography>
+
+      <Typography paragraph>
+        <strong>Мета</strong>
+      </Typography>
+
+      <Typography paragraph>
+        Наша головна мета бути важливою зв’язкою між волонтерами, військовими та благодійниками. Наша місія – бути надійним та захищеним інструментом для щоденної важливої місії кожного українця. Долучитись до збору може кожен. Не зволікайте! Можливо, це ваша добра справа сьогодні. Наближаємо перемогу разом! СЛАВА УКРАЇНІ!
+      </Typography>
+    </Container>
+         </>
       
    );
  };

@@ -37,8 +37,8 @@ export default function Header(props) {
           <Toolbar>
                       <MenuItem>
                               
-                              <NavLink to="/"> 
-                                    <Typography textAlign="center"  variant="h6"  component="div"  sx={{ flexGrow: 1 }} >
+                              <NavLink to="/" > 
+                                    <Typography textAlign="center"  variant="h6"   component="div"  sx={{ flexGrow: 1 }} >
                                           Home
                                     </Typography>
                               </NavLink>
@@ -58,13 +58,13 @@ export default function Header(props) {
                                   sx={{ marginLeft: "auto" }}
                                   variant="contained"
                                 >
-                                  Login
+                                   <Link to="/login">Логін</Link>
                                 </Button>
                                 <Button
                                   sx={{ marginLeft: "10px" }}
                                   variant="contained"
                                 >
-                                  SignUp
+                                   <Link to="/register">Реєстрація</Link>
                                 </Button>
             
           </Toolbar>
